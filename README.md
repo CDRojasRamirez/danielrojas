@@ -34,7 +34,7 @@ Puedes contactarme a través de los siguientes medios:
 - LinkedIn: [linkedin.com/in/cdrojasramirez](https://www.linkedin.com/in/cdrojasramirez)
 - Portafolio: [danielrr.netlify.app](https://danielrr.netlify.app)
 
-## Mejores Repositorios
+## Algunos Repositorios
 
 1. [VideoGames]([link_repo_y](https://github.com/CDRojasRamirez/PI-VIDEOGAMES-MAIN))
 
