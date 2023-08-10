@@ -36,14 +36,8 @@ Puedes contactarme a través de los siguientes medios:
 
 ## Mejores Repositorios
 
-1. [Proyecto X](link_repo_x)
-   Breve descripción del proyecto X.
+1. [VideoGames]([link_repo_y](https://github.com/CDRojasRamirez/PI-VIDEOGAMES-MAIN))
 
-2. [Proyecto Y](link_repo_y)
-   Breve descripción del proyecto Y.
+2. [Daniel's Pokemon]([link_repo_z](https://github.com/CDRojasRamirez/PI-POKEMON-MAINCD))
 
-3. [Proyecto Z](link_repo_z)
-   Breve descripción del proyecto Z.
-
-4. [Proyecto W](link_repo_w)
-   Breve descripción del proyecto W.
+3. [Mr Developer]([link_repo_w](https://github.com/CDRojasRamirez/mr-developer)https://github.com/CDRojasRamirez/mr-developer)
